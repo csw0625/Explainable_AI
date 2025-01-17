@@ -1,4 +1,4 @@
-# Explainable_AI
+# eXplainable_AI (XAI)
 
 ## Contents
 - **Introduction to XAI**
