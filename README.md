@@ -1,5 +1,6 @@
 # Explainable_AI
----
+
+## Contents
 - **Introduction to XAI**
 
 - **Part1 : Global Explainers**
@@ -26,3 +27,6 @@
 - **Part5 : ALIBI & EBM**
    - ALIBI explainer들의 비교와 응용
    - EBM(Explainable Boosting Machines)
+ 
+  ---
+  Textbook : 박유성 (2024),***alibi,lime,shap,ELI5,InterpretML을 활용한 XAI***,자유아카데미
