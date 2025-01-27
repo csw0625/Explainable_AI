@@ -30,4 +30,4 @@
  
   ---
   #### References
-  Textbook : 박유성 (2024),***alibi,lime,shap,ELI5,InterpretML을 활용한 XAI***,자유아카데미
+  박유성 (2024),***alibi,lime,shap,ELI5,InterpretML을 활용한 XAI***,자유아카데미
