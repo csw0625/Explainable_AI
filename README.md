@@ -20,9 +20,10 @@
     - Decision plot
 
 - **Part4 : CounterFactual Explainers**
-    - CEM(Contrastive explanation method)
-    - CFI(Counterfactual Instances)
-    - CFP(Counterfactual with Reinforcement Learning)
+    - CEM(Contrastive Explanation Method)
+    - CFI(CounterFactual Instances)
+    - CFP(CounterFactual Guided by Prototypes)
+    - CFRL(CounterFactual with Reinforcement Learning)
 
 - **Part5 : ALIBI & EBM**
    - ALIBI explainer들의 비교와 응용
